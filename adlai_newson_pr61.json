@@ -50,10 +50,10 @@
       "MO(1)",
       "KC_SPC",
       "MO(2)",
-      "KC_LALT",
+      "KC_RALT",
       "KC_NO",
       "KC_NO",
-      "KC_LCTL"
+      "KC_RCTL"
     ],
     [
       "KC_GRV",
@@ -64,9 +64,9 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
+      "KC_NO",
       "KC_MINS",
       "KC_EQL",
-      "KC_NO",
       "KC_DEL",
       "KC_CAPS",
       "KC_4",

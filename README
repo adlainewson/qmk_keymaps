@@ -2,3 +2,7 @@ This json is from the online QMK tool; think I lost my source code for my older 
 
 See https://config.qmk.fm/
 
+To use:
+qmk setup
+qmk flash {layout.json}
+
